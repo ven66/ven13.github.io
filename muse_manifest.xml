@@ -1,0 +1,19 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="dd.ru" resolutions="1x" timestamp="1481551274433">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="315430789" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="330px-1979_cpa_4969.jpg" crc="113367525" seo="true" ref="index"/>
+    <file name="220px-podnos.jpg" crc="3970881551" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="58066692" seo="true" mt="1481550803792" redirect="true"/>
+</manifest>
